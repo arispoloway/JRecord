@@ -1,10 +1,5 @@
-
 #include <sourcemod>
 #include <sdktools>
-#include <sdkhooks>
-#include <smlib>
-#include <tf2>
-#include <tf2_stocks>
 
 
 new clientRecording;
